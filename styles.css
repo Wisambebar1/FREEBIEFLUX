@@ -46,6 +46,10 @@ img{
     height:6vh;
 }
 footer{
-    background-color: gray;
-    height:20vh;
+    height:30vh;
+}
+#footer-title{
+    font-size:1rem;
+    font-weight:100;
+    margin-left:4vw;
 }
